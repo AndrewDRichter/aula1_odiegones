@@ -2,3 +2,6 @@
 /env
 ativa.bat
 filmes.json
+*.jsonl
+*.json
+*.csv
