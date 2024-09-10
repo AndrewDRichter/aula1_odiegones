@@ -5,3 +5,5 @@ filmes.json
 *.jsonl
 *.json
 *.csv
+*/__pycache__/*
+*/spiders/__pycache__/*
